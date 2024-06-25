@@ -8,6 +8,12 @@ This project is a simple healthcare chatbot that provides remedies for various s
 - Uses OpenAI's GPT-3.5-turbo model to generate remedies for symptoms not found in the dataset.
 - Ensures responses are focused on healthcare-related advice.
 
+## Demo
+
+Watch the video demo of the Healthcare Chatbot on YouTube:
+
+[![Healthcare Chatbot Demo](https://img.youtube.com/vi/mCFzmJy1G3g/0.jpg)](https://youtu.be/mCFzmJy1G3g)
+
 ## Setup
 
 ### Prerequisites
@@ -18,26 +24,26 @@ This project is a simple healthcare chatbot that provides remedies for various s
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository**:
 
     ```bash
     git clone https://github.com/yourusername/your-repository-name.git
     cd your-repository-name
     ```
 
-2. Install the required packages:
+2. **Install the required packages**:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Create a `.streamlit` directory if it doesn't exist:
+3. **Create a `.streamlit` directory**:
 
     ```bash
     mkdir .streamlit
     ```
 
-4. Create a `secrets.toml` file in the `.streamlit` directory and add your OpenAI API key:
+4. **Create a `secrets.toml` file in the `.streamlit` directory and add your OpenAI API key**:
 
     ```toml
     [secrets]
@@ -46,24 +52,24 @@ This project is a simple healthcare chatbot that provides remedies for various s
 
 ### Usage
 
-1. Ensure the `healthcare_data.json` file is in the project directory.
+1. **Ensure the `healthcare_data.json` file is in the project directory**.
 
-2. Run the Streamlit application:
+2. **Run the Streamlit application**:
 
     ```bash
     streamlit run app.py
     ```
 
-3. Open your web browser and go to `http://localhost:8501` to interact with the chatbot.
+3. **Open your web browser and go to `http://localhost:8501` to interact with the chatbot**.
 
-### File Structure
+## File Structure
 
 - `app.py`: The main Streamlit application script.
 - `healthcare_data.json`: The JSON file containing healthcare symptoms and remedies.
 - `.streamlit/secrets.toml`: The secrets file containing the OpenAI API key.
 - `README.md`: This readme file.
 
-### Example healthcare_data.json
+### Example `healthcare_data.json`
 
 Ensure your `healthcare_data.json` is structured as follows:
 
