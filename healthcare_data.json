@@ -1,0 +1,462 @@
+[
+  {
+      "symptom": "Headache",
+      "remedy": "Take a pain reliever such as ibuprofen or acetaminophen. Rest in a quiet, dark room. Apply a cool compress to your forehead."
+  },
+  {
+      "symptom": "Sore Throat",
+      "remedy": "Gargle with warm salt water. Drink warm liquids such as tea with honey. Suck on throat lozenges."
+  },
+  {
+      "symptom": "Fever",
+      "remedy": "Stay hydrated by drinking plenty of fluids. Take a lukewarm bath. Use fever-reducing medications such as acetaminophen or ibuprofen."
+  },
+  {
+      "symptom": "Cough",
+      "remedy": "Drink warm fluids. Use a humidifier. Take over-the-counter cough medications."
+  },
+  {
+      "symptom": "Nasal Congestion",
+      "remedy": "Use a saline nasal spray. Inhale steam from a bowl of hot water. Use decongestants."
+  },
+  {
+      "symptom": "Stomach Ache",
+      "remedy": "Drink clear fluids. Eat bland foods like crackers and toast. Use over-the-counter antacids."
+  },
+  {
+      "symptom": "Nausea",
+      "remedy": "Eat small, frequent meals. Drink ginger tea or eat ginger candies. Avoid strong odors."
+  },
+  {
+      "symptom": "Diarrhea",
+      "remedy": "Stay hydrated by drinking plenty of water and electrolyte solutions. Eat a BRAT diet (bananas, rice, applesauce, toast). Avoid dairy products."
+  },
+  {
+      "symptom": "Constipation",
+      "remedy": "Increase fiber intake by eating fruits, vegetables, and whole grains. Drink plenty of water. Exercise regularly."
+  },
+  {
+      "symptom": "Muscle Pain",
+      "remedy": "Rest the affected area. Apply ice or heat. Take over-the-counter pain relievers."
+  },
+  {
+      "symptom": "Joint Pain",
+      "remedy": "Rest the joint. Apply ice to reduce swelling. Use over-the-counter anti-inflammatory medications."
+  },
+  {
+      "symptom": "Allergic Reaction",
+      "remedy": "Take an antihistamine. Use a cool compress to relieve itching. Avoid the allergen."
+  },
+  {
+      "symptom": "Skin Rash",
+      "remedy": "Apply hydrocortisone cream. Use a cool compress. Avoid scratching the affected area."
+  },
+  {
+      "symptom": "Burn",
+      "remedy": "Run cool water over the burn. Apply aloe vera gel. Cover with a sterile bandage."
+  },
+  {
+      "symptom": "Cut",
+      "remedy": "Clean the cut with soap and water. Apply an antibiotic ointment. Cover with a bandage."
+  },
+  {
+      "symptom": "Bruise",
+      "remedy": "Apply ice to reduce swelling. Elevate the bruised area. Rest the affected area."
+  },
+  {
+      "symptom": "Insect Bite",
+      "remedy": "Apply a cold pack. Use hydrocortisone cream to reduce itching. Take an antihistamine if needed."
+  },
+  {
+      "symptom": "Sunburn",
+      "remedy": "Apply aloe vera gel. Take a cool bath. Drink plenty of fluids."
+  },
+  {
+      "symptom": "Blister",
+      "remedy": "Clean the blister with soap and water. Apply an antibiotic ointment. Cover with a sterile bandage."
+  },
+  {
+      "symptom": "Earache",
+      "remedy": "Apply a warm compress to the ear. Use over-the-counter pain relievers. Keep the ear dry."
+  },
+  {
+      "symptom": "Toothache",
+      "remedy": "Rinse your mouth with warm salt water. Use a cold compress on your cheek. Take over-the-counter pain relievers."
+  },
+  {
+      "symptom": "Insomnia",
+      "remedy": "Maintain a regular sleep schedule. Avoid caffeine and electronics before bedtime. Practice relaxation techniques."
+  },
+  {
+      "symptom": "Stress",
+      "remedy": "Practice deep breathing exercises. Engage in physical activity. Take time to relax and do activities you enjoy."
+  },
+  {
+      "symptom": "Anxiety",
+      "remedy": "Practice mindfulness or meditation. Avoid caffeine. Talk to a friend or therapist."
+  },
+  {
+      "symptom": "Depression",
+      "remedy": "Engage in physical activity. Connect with friends and family. Consider talking to a mental health professional."
+  },
+  {
+      "symptom": "Cold Sores",
+      "remedy": "Apply a cold, damp cloth to the sore. Use over-the-counter antiviral creams. Avoid touching the sore."
+  },
+  {
+      "symptom": "Acne",
+      "remedy": "Wash your face twice daily with a gentle cleanser. Use over-the-counter acne treatments. Avoid picking at pimples."
+  },
+  {
+      "symptom": "Dry Skin",
+      "remedy": "Apply moisturizer regularly. Use a humidifier. Avoid hot showers."
+  },
+  {
+      "symptom": "Itchy Eyes",
+      "remedy": "Apply a cold compress. Use over-the-counter eye drops. Avoid rubbing your eyes."
+  },
+  {
+      "symptom": "Dandruff",
+      "remedy": "Use an anti-dandruff shampoo. Avoid using too many hair products. Eat a healthy diet."
+  },
+  {
+      "symptom": "Hair Loss",
+      "remedy": "Avoid tight hairstyles. Use gentle hair care products. Consider talking to a healthcare provider about treatments."
+  },
+  {
+      "symptom": "Bad Breath",
+      "remedy": "Brush and floss regularly. Use mouthwash. Stay hydrated."
+  },
+  {
+      "symptom": "Hiccups",
+      "remedy": "Hold your breath for a few seconds. Drink a glass of cold water. Gently pull on your tongue."
+  },
+  {
+      "symptom": "Heartburn",
+      "remedy": "Avoid spicy and fatty foods. Eat smaller meals. Take over-the-counter antacids."
+  },
+  {
+      "symptom": "Indigestion",
+      "remedy": "Eat smaller, more frequent meals. Avoid lying down after eating. Take over-the-counter antacids."
+  },
+  {
+      "symptom": "Bloating",
+      "remedy": "Avoid gas-producing foods. Eat slowly and chew thoroughly. Consider taking over-the-counter anti-gas medications."
+  },
+  {
+      "symptom": "Cold",
+      "remedy": "Rest and stay hydrated. Use over-the-counter cold medications. Gargle with salt water."
+  },
+  {
+      "symptom": "Flu",
+      "remedy": "Rest and drink plenty of fluids. Take fever-reducing medications. Use a humidifier to ease breathing."
+  },
+  {
+      "symptom": "Pink Eye",
+      "remedy": "Apply a warm compress. Use over-the-counter eye drops. Avoid touching your eyes."
+  },
+  {
+      "symptom": "Sore Muscles",
+      "remedy": "Rest and apply ice. Stretch gently. Take over-the-counter pain relievers."
+  },
+  {
+      "symptom": "Sprain",
+      "remedy": "Rest the affected area. Apply ice. Compress with an elastic bandage."
+  },
+  {
+      "symptom": "Tendonitis",
+      "remedy": "Rest the affected tendon. Apply ice. Use over-the-counter anti-inflammatory medications."
+  },
+  {
+      "symptom": "Migraine",
+      "remedy": "Rest in a quiet, dark room. Apply a cold compress to your forehead. Take over-the-counter pain relievers."
+  },
+  {
+      "symptom": "High Blood Pressure",
+      "remedy": "Reduce salt intake. Exercise regularly. Take prescribed medications."
+  },
+  {
+      "symptom": "Low Blood Pressure",
+      "remedy": "Increase salt intake. Drink more water. Wear compression stockings."
+  },
+  {
+      "symptom": "Anemia",
+      "remedy": "Eat iron-rich foods. Take iron supplements. Avoid drinking tea or coffee with meals."
+  },
+  {
+      "symptom": "Asthma",
+      "remedy": "Use your prescribed inhaler. Avoid asthma triggers. Practice breathing exercises."
+  },
+  {
+      "symptom": "Allergies",
+      "remedy": "Take antihistamines. Avoid allergens. Use a nasal spray."
+  },
+  {
+      "symptom": "Bronchitis",
+      "remedy": "Rest and drink plenty of fluids. Use a humidifier. Take over-the-counter cough medications."
+  },
+  {
+      "symptom": "Pneumonia",
+      "remedy": "Rest and take prescribed antibiotics. Drink plenty of fluids. Use a humidifier."
+  },
+  {
+      "symptom": "COVID-19",
+      "remedy": "Isolate yourself. Rest and stay hydrated. Take fever-reducing medications."
+  },
+  {
+      "symptom": "High Cholesterol",
+      "remedy": "Eat a heart-healthy diet. Exercise regularly. Take prescribed medications."
+  },
+  {
+      "symptom": "Diabetes",
+      "remedy": "Monitor your blood sugar levels. Eat a balanced diet. Take prescribed medications."
+  },
+  {
+      "symptom": "Obesity",
+      "remedy": "Exercise regularly. Eat a healthy, balanced diet. Consider talking to a healthcare provider about weight loss strategies."
+  },
+  {
+      "symptom": "Arthritis",
+      "remedy": "Exercise regularly. Apply heat or cold to affected joints. Take over-the-counter anti-inflammatory medications."
+  },
+  {
+      "symptom": "Osteoporosis",
+      "remedy": "Eat calcium-rich foods. Take vitamin D supplements. Exercise regularly."
+  },
+  {
+      "symptom": "Gout",
+      "remedy": "Avoid foods high in purines. Drink plenty of water. Take prescribed medications."
+  },
+  {
+      "symptom": "Eczema",
+      "remedy": "Moisturize regularly. Avoid harsh soaps. Use over-the-counter hydrocortisone cream."
+  },
+  {
+      "symptom": "Psoriasis",
+      "remedy": "Apply moisturizing creams. Use over-the-counter cortisone cream. Avoid triggers like stress and cold weather."
+  },
+  {
+      "symptom": "Anorexia",
+      "remedy": "Seek professional help. Eat small, frequent meals. Avoid exercising excessively."
+  },
+  {
+      "symptom": "Bulimia",
+      "remedy": "Seek professional help. Eat regular, balanced meals. Avoid binge eating and purging."
+  },
+  {
+      "symptom": "Bipolar Disorder",
+      "remedy": "Seek professional help. Take prescribed medications. Maintain a regular routine."
+  },
+  {
+      "symptom": "Schizophrenia",
+      "remedy": "Seek professional help. Take prescribed medications. Avoid alcohol and drugs."
+  },
+  {
+      "symptom": "ADHD",
+      "remedy": "Seek professional help. Take prescribed medications. Practice organizational skills."
+  },
+  {
+      "symptom": "Autism",
+      "remedy": "Seek professional help. Engage in therapy. Provide a structured and supportive environment."
+  },
+  {
+      "symptom": "Dyslexia",
+      "remedy": "Seek professional help. Practice reading regularly. Use assistive technologies."
+  },
+  {
+      "symptom": "PTSD",
+      "remedy": "Seek professional help. Practice relaxation techniques. Avoid triggers."
+  },
+  {
+      "symptom": "OCD",
+      "remedy": "Seek professional help. Take prescribed medications. Practice relaxation techniques."
+  },
+  {
+      "symptom": "Panic Attacks",
+      "remedy": "Practice deep breathing exercises. Avoid caffeine. Seek professional help."
+  },
+  {
+      "symptom": "Vertigo",
+      "remedy": "Avoid sudden movements. Practice balance exercises. Take prescribed medications."
+  },
+  {
+      "symptom": "Dizziness",
+      "remedy": "Sit or lie down immediately. Drink plenty of fluids. Avoid sudden changes in position."
+  },
+  {
+      "symptom": "Fainting",
+      "remedy": "Sit or lie down immediately. Elevate your legs. Drink plenty of fluids."
+  },
+  {
+      "symptom": "Seizures",
+      "remedy": "Seek medical help immediately. Protect the person from injury. Do not restrain the person."
+  },
+  {
+      "symptom": "Stroke",
+      "remedy": "Seek emergency medical help immediately. Administer CPR if needed. Keep the person calm and comfortable."
+  },
+  {
+      "symptom": "Heart Attack",
+      "remedy": "Seek emergency medical help immediately. Administer CPR if needed. Keep the person calm and comfortable."
+  },
+  {
+      "symptom": "Appendicitis",
+      "remedy": "Seek emergency medical help immediately. Avoid eating or drinking. Do not apply heat to the abdomen."
+  },
+  {
+      "symptom": "Gallstones",
+      "remedy": "Seek medical help. Avoid fatty foods. Consider surgery if recommended by a healthcare provider."
+  },
+  {
+      "symptom": "Kidney Stones",
+      "remedy": "Drink plenty of water. Take pain relievers. Seek medical help if the pain is severe."
+  },
+  {
+      "symptom": "UTI",
+      "remedy": "Drink plenty of water. Take prescribed antibiotics. Avoid irritants like caffeine and alcohol."
+  },
+  {
+      "symptom": "Yeast Infection",
+      "remedy": "Use over-the-counter antifungal treatments. Wear loose-fitting, breathable clothing. Avoid scented hygiene products."
+  },
+  {
+      "symptom": "Menstrual Cramps",
+      "remedy": "Apply heat to the abdomen. Take over-the-counter pain relievers. Practice relaxation techniques."
+  },
+  {
+      "symptom": "PMS",
+      "remedy": "Eat a balanced diet. Exercise regularly. Take over-the-counter pain relievers if needed."
+  },
+  {
+      "symptom": "Hot Flashes",
+      "remedy": "Wear light clothing. Use a fan or cool cloth. Practice deep breathing exercises."
+  },
+  {
+      "symptom": "Osteoarthritis",
+      "remedy": "Exercise regularly. Apply heat or cold to affected joints. Take over-the-counter pain relievers."
+  },
+  {
+      "symptom": "Rheumatoid Arthritis",
+      "remedy": "Exercise regularly. Apply heat or cold to affected joints. Take prescribed medications."
+  },
+  {
+      "symptom": "Fibromyalgia",
+      "remedy": "Exercise regularly. Practice relaxation techniques. Take prescribed medications."
+  },
+  {
+      "symptom": "Lupus",
+      "remedy": "Seek medical help. Take prescribed medications. Protect your skin from the sun."
+  },
+  {
+      "symptom": "Multiple Sclerosis",
+      "remedy": "Seek medical help. Take prescribed medications. Engage in physical therapy."
+  },
+  {
+      "symptom": "Parkinson's Disease",
+      "remedy": "Seek medical help. Take prescribed medications. Engage in physical therapy."
+  },
+  {
+      "symptom": "Alzheimer's Disease",
+      "remedy": "Seek medical help. Engage in mental exercises. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Dementia",
+      "remedy": "Seek medical help. Engage in mental exercises. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Epilepsy",
+      "remedy": "Take prescribed medications. Avoid triggers. Seek medical help if seizures persist."
+  },
+  {
+      "symptom": "Hepatitis",
+      "remedy": "Seek medical help. Avoid alcohol. Take prescribed medications."
+  },
+  {
+      "symptom": "Liver Disease",
+      "remedy": "Seek medical help. Avoid alcohol. Maintain a healthy diet."
+  },
+  {
+      "symptom": "Pancreatitis",
+      "remedy": "Seek medical help. Avoid alcohol. Follow a low-fat diet."
+  },
+  {
+      "symptom": "Thyroid Disease",
+      "remedy": "Seek medical help. Take prescribed medications. Maintain a healthy diet."
+  },
+  {
+      "symptom": "Lymphoma",
+      "remedy": "Seek medical help. Take prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Leukemia",
+      "remedy": "Seek medical help. Take prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Skin Cancer",
+      "remedy": "Seek medical help. Avoid sun exposure. Follow prescribed treatments."
+  },
+  {
+      "symptom": "Breast Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Lung Cancer",
+      "remedy": "Seek medical help. Avoid smoking. Follow prescribed treatments."
+  },
+  {
+      "symptom": "Colon Cancer",
+      "remedy": "Seek medical help. Maintain a healthy diet. Follow prescribed treatments."
+  },
+  {
+      "symptom": "Prostate Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Cervical Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Ovarian Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Testicular Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Bladder Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Kidney Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Esophageal Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Stomach Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy diet."
+  },
+  {
+      "symptom": "Throat Cancer",
+      "remedy": "Seek medical help. Avoid smoking. Follow prescribed treatments."
+  },
+  {
+      "symptom": "Oral Cancer",
+      "remedy": "Seek medical help. Avoid tobacco. Follow prescribed treatments."
+  },
+  {
+      "symptom": "Pancreatic Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy diet."
+  },
+  {
+      "symptom": "Brain Cancer",
+      "remedy": "Seek medical help. Follow prescribed treatments. Maintain a healthy lifestyle."
+  },
+  {
+      "symptom": "Melanoma",
+      "remedy": "Seek medical help. Avoid sun exposure. Follow prescribed treatments."
+  }
+]
