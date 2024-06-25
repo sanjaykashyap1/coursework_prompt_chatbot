@@ -1,3 +1,4 @@
+
 # Healthcare Chatbot
 
 This project is a simple healthcare chatbot that provides remedies for various symptoms using a pre-defined dataset and OpenAI's GPT-3.5-turbo model. The chatbot is built using Streamlit for the user interface.
@@ -62,6 +63,69 @@ Watch the video demo of the Healthcare Chatbot on YouTube:
 
 3. **Open your web browser and go to `http://localhost:8501` to interact with the chatbot**.
 
+### Examples
+
+#### Example 1
+
+**User Input:**
+```
+What symptom are you experiencing?
+I have a headache
+```
+
+**Chatbot Response:**
+```
+Sorry, I can only provide information and remedies for healthcare-related symptoms. Please consult a healthcare professional for other inquiries.
+
+Note: This chatbot is for informational purposes only. Please consult a healthcare professional for medical advice.
+```
+
+#### Example 2
+
+**User Input:**
+```
+What symptom are you experiencing?
+I have teeth pain
+```
+
+**Chatbot Response:**
+```
+Remedy for I have teeth pain:
+Remedy: Rinse your mouth with warm salt water to help alleviate tooth pain. Contact a dentist for further evaluation and treatment if the pain persists.
+
+Note: This chatbot is for informational purposes only. Please consult a healthcare professional for medical advice.
+```
+
+#### Example 3
+
+**User Input:**
+```
+What symptom are you experiencing?
+How to play basketball?
+```
+
+**Chatbot Response:**
+```
+Sorry, I can only provide information and remedies for healthcare-related symptoms. Please consult a healthcare professional for other inquiries.
+
+Note: This chatbot is for informational purposes only. Please consult a healthcare professional for medical advice.
+```
+
+#### Example 4
+
+**User Input:**
+```
+What symptom are you experiencing?
+How to perform a surgery?
+```
+
+**Chatbot Response:**
+```
+Sorry, I can only provide information and remedies for healthcare-related symptoms. Please consult a healthcare professional for other inquiries.
+
+Note: This chatbot is for informational purposes only. Please consult a healthcare professional for medical advice.
+```
+
 ## File Structure
 
 - `app.py`: The main Streamlit application script.
@@ -89,3 +153,9 @@ Ensure your `healthcare_data.json` is structured as follows:
     }
     // Add more entries as needed
 ]
+```
+
+### Notes
+
+- This chatbot is for informational purposes only. Always consult a healthcare professional for medical advice.
+- Ensure your OpenAI API key is kept secure and not shared publicly.
