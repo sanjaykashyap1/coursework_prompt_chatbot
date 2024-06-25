@@ -75,9 +75,8 @@ I have a headache
 
 **Chatbot Response:**
 ```
-Sorry, I can only provide information and remedies for healthcare-related symptoms. Please consult a healthcare professional for other inquiries.
-
-Note: This chatbot is for informational purposes only. Please consult a healthcare professional for medical advice.
+Remedy for I have a headache:
+Remedy: Drink plenty of water, rest in a quiet dark room, apply a cold compress to the forehead, and consider taking over-the-counter pain relief medication such as ibuprofen or acetaminophen. If headaches persist or worsen, consult a healthcare provider.
 ```
 
 #### Example 2
